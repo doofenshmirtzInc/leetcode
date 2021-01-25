@@ -17,3 +17,5 @@ def twosum(nums: List[int], target: int) -> List[int]:
 if __name__ == '__main__':
 
     print('hello')
+
+    li = r.choices(population=r.randrange(10), k=20)
